@@ -17,3 +17,6 @@
 - <a href = "https://chuan-chen.github.io/React-MemoryGame/">Memory Game</a>
 - <a href = "https://nauhc.dev"> Portfolio Page </a>
 - <a href = "https://github.com/Chuan-Chen/Trash-Queue">Trash Queue</a>
+
+## Deprecated
+- <a href = "https://github.com/Chuan-Chen/ani-calendar"> Ani-Calendar </a>
