@@ -1,5 +1,5 @@
 # About Me
-Likes to build computers for fun, haven't touched grass since I started CS. Need me some internships please. I feel like nothing is ever complete but is always in the process of completion.
+Likes to build computers for fun, haven't touched grass since I started CS. Need some internships please. I feel like nothing is ever complete but is always in the process of completion.
 
 # Project-Links
 ## Finished
