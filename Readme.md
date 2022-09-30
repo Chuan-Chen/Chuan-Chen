@@ -1,5 +1,5 @@
 ## About Me
-Likes to build computers for fun, haven't touched grass since I started CS. Need me some internships please.
+Likes to build computers for fun, haven't touched grass since I started CS. Need me some internships please. I feel like nothing is ever complete.
 
 ## Project-Links
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Admin-Dashboard/index.html">Admin-Dashboard</a>
