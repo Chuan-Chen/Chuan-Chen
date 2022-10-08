@@ -20,6 +20,6 @@ Likes to build computers for fun, haven't touched grass since I started CS. Need
 ### layout projects
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Admin-Dashboard/index.html">Admin-Dashboard</a>
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Signup_Form/index.html">Signup Form</a>
-  - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Restaurant-Page/dist/index.html">Restaurant-Page</a>
+- <a href = "https://chuan-chen.github.io/Fullstack-Projects/Restaurant-Page/dist/index.html">Restaurant-Page</a>
 ## Deprecated
 - <a href = "https://github.com/Chuan-Chen/ani-calendar"> Ani-Calendar </a>
