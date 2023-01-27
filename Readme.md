@@ -1,5 +1,5 @@
 # About Me
-Likes to build computers for fun, haven't touched grass since I started CS. Need some internships please. I feel like nothing is ever complete but is always in the process of completion.
+Nothing is ever complete but is always in the process of completion. The only constant is change, and that is what I am here for to be the constant. I like to build computers for fun, make video game servers, and do wacky home projects. 
 
 # Project-Links
 ## Finished
