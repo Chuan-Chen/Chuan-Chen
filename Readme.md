@@ -1,5 +1,8 @@
 # About Me
-Nothing is ever complete but is always in the process of completion. The only constant is change, and that is what I am here for to be the constant. I like to build computers for fun, make video game servers, and do wacky home projects. 
+Hi my name is Chuan or Shawn,
+My goal is to eventually publish my own games on steam, hopefully learning new things along the way. If you wish to contact me please email me at [ chuan.chen.info@gmail.com ] I hope you liked my profile. I also like to build computers for fun, make video game servers, and do wacky home projects. 
+
+Mantra: Nothing is ever complete but is always in the process of completion. The only constant is change, and that is what I am here for to be the constant. 
 
 # Project-Links
 ## Finished
