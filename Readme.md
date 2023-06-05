@@ -12,6 +12,7 @@ Mantra: Nothing is ever complete but is always in the process of completion. The
 - <a href = "https://chuan-chen.github.io/CV-Application/">CV-App Template</a>
 - <a href = "https://chuan-chen.github.io/React-MemoryGame/">Memory Game</a>
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Tic_Tac_Toe/index.html"> Tic Tac Toe</a>
+- <a href = "https://chuan-chen.github.io/Fullstack-Projects/Drawing%20PAD/index.html">Drawing Pad</a>
 ## Work in progress
 - <a href = "https://nauhc.dev"> Portfolio Page </a>
 - <a href = "https://github.com/Chuan-Chen/Trash-Queue">Trash Queue</a>
@@ -20,6 +21,5 @@ Mantra: Nothing is ever complete but is always in the process of completion. The
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Signup_Form/index.html">Signup Form</a>
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Restaurant-Page/dist/index.html">Restaurant-Page</a>
 ## Deprecated
-- <a href = "https://chuan-chen.github.io/Fullstack-Projects/Drawing%20PAD/index.html">Drawing Pad</a>
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Rock-Paper-Scissors/index.html">Rock Paper Scissors</a>
 - <a href = "https://github.com/Chuan-Chen/ani-calendar"> Ani-Calendar </a>
