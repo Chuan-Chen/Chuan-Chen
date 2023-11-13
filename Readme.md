@@ -5,7 +5,7 @@ My goal is to eventually publish my own games on steam, hopefully learning new t
 Mantra: Nothing is ever complete but is always in the process of completion. The only constant is change, and that is what I am here for to be the constant. 
 
 # Project-Links
-- <a href = "https://shop.nauhc.dev">Shop</a>
+- <a href = "https://shop.nauhc.dev">DeShop</a>
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/IP/index.html">IP finder</a>
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Library/index.html">Library</a>
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Calculator/index.html">Calculator</a>
