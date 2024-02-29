@@ -3,6 +3,7 @@ I'm currently working on Blog V2 with JWT, using the MERN stack.<br>I like to le
 visit my <a href = "https://self.nauhc.dev">Portfolio</a>
 
 ## Project-Links
+- <a href = "https://message-board.nauhc.dev/"> Mini-Messageboard </a>
 - <a href = "https://shop.nauhc.dev">DeShop</a>
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/IP/index.html">IP finder</a>
 - <a href = "https://chuan-chen.github.io/Fullstack-Projects/Library/index.html">Library</a>
