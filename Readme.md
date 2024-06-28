@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Blog V2 with JWT, using the MERN stack.<br>I like to learn anything about Full-Stack!
+Creating the most epic dumb ideas using MERN stack. While having fun in the process.
 visit my <a href = "https://self.nauhc.dev">Portfolio</a>
 
 ## Project-Links
